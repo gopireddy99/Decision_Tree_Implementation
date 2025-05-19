@@ -51,5 +51,10 @@ Visualization illustrated how the model split data based on feature thresholds.
 The decision tree performed very well on this small and clean dataset. It also provided clear visual insights into how the model makes predictions. While this model worked perfectly on the Iris dataset, real-world data may require additional steps like pruning or setting max_depth to avoid overfitting.
 
 ✅ Conclusion
-This project shows how easy it is to build and visualize a decision tree using scikit-learn. Decision Trees are powerful tools for classification tasks, especially when interpretability is important.
+This project shows how easy it is to build and visualize a decision tree using scikit-learn. Decision Trees are powerful tools for classification tasks, especially 
+when interpretability is important.
+
+# OUTPUT --- 
+![image](https://github.com/user-attachments/assets/1b5b56b7-51fe-43c9-a9b3-01557c4d3ba0)
+
 
